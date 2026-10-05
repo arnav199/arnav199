@@ -12,7 +12,7 @@ B.Tech CSE (AI & ML) student interested in **Artificial Intelligence, Machine Le
 Artificial Intelligence · Machine Learning · Software Development · RAG · Algorithms
 
 ### Connect
-- GitHub: [@arnav199](https://github.com/arnav199)
+- Mail: arnavkapil17@gmail.com
 - Discord: [@toxic_625](https://discord.com/users/1170367886192287757)
 
 <!--
