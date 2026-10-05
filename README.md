@@ -14,6 +14,7 @@ Artificial Intelligence · Machine Learning · Software Development · RAG · Al
 ### Connect
 - Mail: arnavkapil17@gmail.com
 - Discord: [@toxic_625](https://discord.com/users/1170367886192287757)
+- Linkedin: [Arnav Kapil](https://www.linkedin.com/in/arnav-kapil-42a289435/)
 
 <!--
 **arnav199/arnav199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
